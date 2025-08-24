@@ -1,3 +1,7 @@
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.List;
+
 public class Leet17 {
     private static final String[] KEYPAD = {
         "",     // 0
